@@ -1,0 +1,9 @@
+Queue 1:
+pesala
+
+Queue 2:
+sasindu
+
+Queue 3:
+
+Burger Stock: 40
